@@ -1,0 +1,37 @@
+-
+  - { name: 'Stratford - Clapham Junction', stations: [Stratford, 'Hackney Wick', Homerton, 'Hackney Central', 'Dalston Kingsland', Canonbury, 'Highbury & Islington', 'Caledonian Rd & Barnsbury', 'Camden Road', 'Kentish Town West', 'Gospel Oak', 'Hampstead Heath', 'Finchley Road & Frognal', 'West Hampstead', Brondesbury, 'Brondesbury Park', 'Kensal Rise', 'Willesden Junction', 'Shepherd''s Bush', 'Kensington (Olympia)', 'West Brompton', 'Imperial Wharf', 'Clapham Junction'] }
+  - { name: 'Stratford - Bishops Stortford', stations: [Stratford, 'Tottenham Hale', 'Northumberland Park', 'Enfield Lock', Cheshunt, Broxbourne, Roydon, 'Harlow Town', 'Harlow Mill', Sawbridgeworth, 'Bishops Stortford'] }
+-
+  - { origName: 'Bishops Stortford', name: 'Bishop''s Stortford railway station', lat: '51.867', lng: '0.165' }
+  - { origName: Brondesbury, name: 'Brondesbury railway station', lat: '51.5451', lng: '-0.202' }
+  - { origName: 'Brondesbury Park', name: 'Brondesbury Park railway station', lat: '51.5407', lng: '-0.2103' }
+  - { origName: Broxbourne, name: 'Broxbourne railway station', lat: '51.747', lng: '-0.011' }
+  - { origName: 'Caledonian Rd & Barnsbury', name: 'Caledonian Road & Barnsbury railway station', lat: '51.5432', lng: '-0.1145' }
+  - { origName: 'Camden Road', name: 'Camden Road railway station', lat: '51.5418', lng: '-0.1388' }
+  - { origName: Canonbury, name: 'Canonbury railway station', lat: '51.5482', lng: '-0.0925' }
+  - { origName: Cheshunt, name: 'Cheshunt railway station', lat: '51.703', lng: '-0.024' }
+  - { origName: 'Clapham Junction', name: 'Clapham Junction railway station', lat: '51.4646', lng: '-0.1705' }
+  - { origName: 'Dalston Kingsland', name: 'Dalston Kingsland railway station', lat: '51.5482', lng: '-0.0763' }
+  - { origName: 'Enfield Lock', name: 'Enfield Lock railway station', lat: '51.6709', lng: '-0.0284' }
+  - { origName: 'Finchley Road & Frognal', name: 'Finchley Road & Frognal railway station', lat: '51.5499', lng: '-0.1837' }
+  - { origName: 'Gospel Oak', name: 'Gospel Oak railway station', lat: '51.5552', lng: '-0.1514' }
+  - { origName: 'Hackney Central', name: 'Hackney Central railway station', lat: '51.547', lng: '-0.0559' }
+  - { origName: 'Hackney Wick', name: 'Hackney Wick railway station', lat: '51.543417', lng: '-0.024389' }
+  - { origName: 'Hampstead Heath', name: 'Hampstead Heath railway station', lat: '51.5553', lng: '-0.1654' }
+  - { origName: 'Harlow Mill', name: 'Harlow Mill railway station', lat: '51.79', lng: '0.132' }
+  - { origName: 'Harlow Town', name: 'Harlow Town railway station', lat: '51.781', lng: '0.095' }
+  - { origName: 'Highbury & Islington', name: 'Highbury & Islington station', lat: '51.5458', lng: '-0.1050' }
+  - { origName: Homerton, name: 'Homerton railway station', lat: '51.547', lng: '-0.0431' }
+  - { origName: 'Imperial Wharf', name: 'Imperial Wharf railway station', lat: '51.47517', lng: '-0.18281' }
+  - { origName: 'Kensal Rise', name: 'Kensal Rise railway station', lat: '51.5342', lng: '-0.2208' }
+  - { origName: 'Kensington (Olympia)', name: 'Kensington (Olympia) station', lat: '51.4986', lng: '-0.2108' }
+  - { origName: 'Kentish Town West', name: 'Kentish Town West railway station', lat: '51.5468', lng: '-0.1468' }
+  - { origName: 'Northumberland Park', name: 'Northumberland Park railway station', lat: '51.6017', lng: '-0.0541' }
+  - { origName: Roydon, name: 'Roydon railway station', lat: '51.775', lng: '0.036' }
+  - { origName: Sawbridgeworth, name: 'Sawbridgeworth railway station', lat: '51.814', lng: '0.16' }
+  - { origName: 'Shepherd''s Bush', name: 'Shepherd''s Bush railway station', lat: '51.505128', lng: '-0.217561' }
+  - { origName: Stratford, name: 'Stratford station', lat: '51.5422', lng: '-0.0033' }
+  - { origName: 'Tottenham Hale', name: 'Tottenham Hale station', lat: '51.588333', lng: '-0.059722' }
+  - { origName: 'West Brompton', name: 'West Brompton station', lat: '51.4866', lng: '-0.1957' }
+  - { origName: 'West Hampstead', name: 'West Hampstead railway station', lat: '51.5473', lng: '-0.1918' }
+  - { origName: 'Willesden Junction', name: 'Willesden Junction station', lat: '51.53266', lng: '-0.24547' }
